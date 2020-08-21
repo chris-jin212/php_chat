@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /folder1/
+Disallow: /test/
+
+User-Agent: Googlebot
+Disallow: /folder2/
+
+User-agent: *
+Disallow: /

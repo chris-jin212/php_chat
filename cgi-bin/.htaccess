@@ -1,0 +1,9 @@
+
+# The following line dis-allows the listing of directory contents. However,
+# it does not prevent to go into the directory.
+IndexIgnore *
+
+# The following line dis-allows the directory listing.
+Options -Indexes
+
+
